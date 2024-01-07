@@ -1,8 +1,8 @@
-import pymysql
-import csv
-import boto3
 import configparser
+import csv
 
+import boto3
+import pymysql
 
 if __name__ == "__main__":
     parser = configparser.ConfigParser()
