@@ -4,11 +4,18 @@ This repository contains exercises and solutions from the book "Data Pipelines P
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+````bash
+git clone <repo>
+pip install poetry
+cd <repo>
+poetry install
+poetry shell
+````
+
 
 ## Authors
 
-* **Your Name** - *Initial work* - [Levy Nunes](https://github.com/levyvix)
+*[Levy Nunes](https://github.com/levyvix)*
 
 ## License
 
