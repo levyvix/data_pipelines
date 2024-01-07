@@ -2,3 +2,4 @@
 /venv
 /mysql
 **/*.csv
+poetry.lock
